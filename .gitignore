@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #JetBrains IDE's
-./.idea
+.idea/
